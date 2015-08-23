@@ -18,7 +18,7 @@ The run_analysis.R script takes the data from the repository and tidies and tran
 
 5.	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-#tidy_dataset.txt
+##tidy_dataset.txt
 The tidy_dataset.txt contains the average for each activity and each subject, so that each of the 30 subjects will have an average for each of the 6 activities: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS and WALKING_UPSTAIRS.
 
 To view the tidy_dataset.txt file in R you can run the following commands: 
